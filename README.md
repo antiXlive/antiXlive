@@ -1,7 +1,8 @@
-### Hi there, I'm PIYUSH 👋
+<h1 align="center">Hi there, I'm PIYUSH 👋</h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antiXlive&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<span align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antiXlive&show_icons=true)</span>
 <!--
+(https://github.com/anuraghazra/github-readme-stats)
 **antiXlive/antiXlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
