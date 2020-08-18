@@ -4,6 +4,10 @@
   VISITOR COUNT <br />
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
+<p>
+<img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
+<img alt="GIF" height="250px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+</p>
 <h3>🔧 Technologies & Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
