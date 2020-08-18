@@ -1,4 +1,12 @@
 <h1 align="center">Hi there, I'm PIYUSH 👋</h1>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+</p>
+
+<br />
+
+---
 
 <span>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antiXlive&show_icons=true)</span>
 <!--
