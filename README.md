@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm PIYUSH 👋</h1>
 <br/>
 <p align="center"> 
-  VISITOR COUNT<br/>
+  VISITOR COUNT <br />
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
 <h3>🔧 Technologies & Tools</h3>
