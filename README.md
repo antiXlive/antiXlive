@@ -5,7 +5,7 @@
 </p>
 <img align="right" alt="GIF" height="400px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
 </p>
 <h3>🔧 Technologies & Tools</h3>
