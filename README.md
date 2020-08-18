@@ -1,5 +1,4 @@
-<h1 align="left">Hi there, I'm PIYUSH 👋</h1>
-<p align="right"><img align="right" alt="GIF" height="250px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /></p>
+<h1 align="center">Hi there, I'm PIYUSH 👋</h1>
 <br/>
 <br/>
 <p align="center"> 
@@ -7,7 +6,8 @@
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
+  <p align="right"><img align="right" alt="GIF" height="250px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /></p>
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
 </p>
 <h3>🔧 Technologies & Tools</h3>
 <p>
