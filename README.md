@@ -1,13 +1,12 @@
 <h1 align="center">Hi there, I'm PIYUSH 👋</h1>
 
 <p align="center"> 
-  Visitor count
+  Visitor count<br/>
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
 <img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
-<br />
+<br>
 
----
 
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="gargakshit" /> </p>
 
