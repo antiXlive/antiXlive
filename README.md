@@ -5,7 +5,7 @@
   VISITOR COUNT <br />
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
   <p align="right"><img alt="GIF" height="250px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /></p>
 </p>
