@@ -9,9 +9,8 @@
 
 <br/>
 <p align="right">
-  <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+  <img align="right" alt="GIF" height="250px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 </p>
-
 <p> 
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
 </p>
