@@ -1,9 +1,12 @@
-<h1 align="center">Hi there, I'm PIYUSH 👋</h1>
+<p>
+  <p>Hi there, I'm PIYUSH 👋</p>
+  <img align="right" width="325" height="330px" alt="GIF" height="400px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /><br>
+</p>
+
 <p align="center">
   VISITOR COUNT<br>
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
-<img align="right" width="325" height="330px" alt="GIF" height="400px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
 <p>
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
