@@ -1,13 +1,16 @@
 <h1 align="center">Hi there, I'm PIYUSH 👋</h1>
 
+<br/>
+
 <p align="center"> 
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
-<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-<br>
 
+<div>
+<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" /> </p>
+</div>
 
 
 ## 🔧 Technologies & Tools
