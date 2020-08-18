@@ -1,5 +1,5 @@
 <p>
-  <h2>Hi there, I'm PIYUSH 👋</h2>
+  <h1>Hi there, I'm PIYUSH 👋</h1>
   <!--<img align="right" width="325" height="330px" alt="GIF" height="400px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /><br>-->
 </p>
 
