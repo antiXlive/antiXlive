@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm PIYUSH 👋</h1>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+  <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
 
 <br />
