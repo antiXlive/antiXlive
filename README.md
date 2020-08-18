@@ -4,7 +4,7 @@
   VISITOR COUNT<br/>
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
-<h2>🔧 Technologies & Tools</h2>
+<h3>🔧 Technologies & Tools</h3>
 <p>
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
 <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" />
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a">
 <img src="https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a">
 </p>
-## 👤 Social Profiles
+<h3>👤 Social Profiles</h3>
 <a href="https://www.linkedin.com/in/piyush-kumar-0b286317a/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a"/>
 </a>
