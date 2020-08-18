@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
 <p align="center">  
-  <img align="right" alt="GIF" height="400px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /><br>
+  <img alt="GIF" height="400px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /><br>
 </p>
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
