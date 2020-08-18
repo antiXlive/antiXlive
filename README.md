@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm PIYUSH 👋</h1>
+
 <p align="center"> 
-  Visitor count<br>
+  Visitor count
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
-
+<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 <br />
 
 ---
