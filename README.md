@@ -8,11 +8,10 @@
 </p>
 
 <br/>
+<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
 <div>
-
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" /> </p>
-<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 </div>
 
 
