@@ -9,12 +9,11 @@
 
 <br/>
 
-<p> 
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
-</p>
-<p align="right">
+<p > 
+  <img align="left" src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
   <img align="right" alt="GIF" height="250px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 </p>
+
 
 
 
