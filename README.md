@@ -3,7 +3,7 @@
   VISITOR COUNT<br>
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
-<img align="right" width="300" alt="GIF" height="400px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+<img align="right" width="325" height="330px" alt="GIF" height="400px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
 <p>
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
