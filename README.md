@@ -3,12 +3,14 @@
 <br/>
 
 <p align="center"> 
-  Visitor count<br/>
+  VISITOR COUNT<br/>
   <img src="https://profile-counter.glitch.me/antiXlive/count.svg" />
 </p>
 
 <br/>
-<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+<p align="right">
+<img align="right" alt="GIF" height="250px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+</p>
 
 <div>
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" /> </p>
