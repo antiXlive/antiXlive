@@ -32,7 +32,6 @@
 <img src='https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624'/>
 <img src='http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows'/>
 <img src='http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon'/>
-<img src='http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react'/>
 <img src='https://img.shields.io/badge/-Python-333333?style=flat&logo=python'/>
 <img src='http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase'/>
 <img src='http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains'/>
