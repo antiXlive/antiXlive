@@ -12,26 +12,36 @@
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=antiXlive&show_icons=true" alt="PIYUSH" />
 </p>
 <h3>🔧 Technologies & Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">
-</p>
-<p>
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a">
-</p>
+
+<img src='https://img.shields.io/badge/-C-333333?style=flat&logo=c'/> <img src='https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B'/>
+<img src='https://img.shields.io/badge/-Java-333333?style=flat&logo=java'/>
+<img src='https://img.shields.io/badge/-Python-333333?style=flat&logo=python'/>
+<img src='https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5'/>
+<img src='https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql'/>
+<img src='https://img.shields.io/badge/-PHP-333333?style=flat&logo=php'/>
+<img src='https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933'/>
+<img src='https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB'/>
+<img src='https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript'/>
+<img src='https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql'/>
+<img src='http://img.shields.io/badge/-Expressjs-333333?style=flat&logo=javascript'/>
+<img src='http://img.shields.io/badge/-Android-333333?style=flat&logo=android'/>
+<img src='http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio'/>
+<img src='http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android'/>
+<img src='http://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle'/>
+<img src='http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react'/>
+<img src='http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase'/>
+<img src='http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains'/>
+<img src='https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032'/>
+<img src='https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF'/>
+<img src='https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC'/>
+<img src='http://img.shields.io/badge/-Trello-333333?style=flat&logo=trello'/>
+
+
+
+
 <h3>👤 Social Profiles</h3>
 <a href="https://www.linkedin.com/in/piyush-kumar-0b286317a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a"/>
+  <img src="http://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 
