@@ -28,7 +28,6 @@
 <img src='http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio'/>
 <img src='http://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle'/>
 <img src='http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react'/>
-<img src='http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon'/>
 <img src='https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624'/>
 <img src='http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows'/>
 <img src='http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon'/>
